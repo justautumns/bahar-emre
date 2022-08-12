@@ -662,9 +662,9 @@ a {
 
     .info h1 {
         font-size: 50px;
-        line-height: 60px;
+        line-height: 50px;
         text-align: left;
-        padding-top: 40px;
+        padding-top: 30px;
     }
 
     .info p {
@@ -696,6 +696,7 @@ a {
     }
     .slide-control {
         margin-top: 0px;
-        margin-bottom: 45px;
+        margin-bottom: 60px;
+        padding-top: 0;
     }
 }
