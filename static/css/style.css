@@ -600,14 +600,16 @@ a {
         align-items: flex-start;
     }
 
-    .info h1 {
-        font-size: 80px;
-        line-height: 80px;
+   .info h1 {
+        font-size: 50px;
+        line-height: 60px;
         text-align: left;
+        padding-top: 40px;
     }
 
     .info p {
         font-size: 12px;
+        margin-bottom: 3px;
     }
 
     .info button {
