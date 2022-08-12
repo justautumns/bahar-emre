@@ -669,7 +669,7 @@ a {
 
     .info p {
         font-size: 12px;
-        margin: 35px 20px 20px 20px;
+        margin: 30px 20px 10px 20px;
     }
 
     .info button {
@@ -695,6 +695,7 @@ a {
         padding: 30px;
     }
     .slide-control {
-        margin-bottom: 40px;
+        margin-top: 0px;
+        margin-bottom: 45px;
     }
 }
