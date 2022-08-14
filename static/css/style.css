@@ -661,7 +661,7 @@ a {
     }
 
     .info h1 {
-        font-size: 50px;
+        font-size: 45px;
         line-height: 50px;
         text-align: left;
         padding-top: 30px;
@@ -669,7 +669,7 @@ a {
 
     .info p {
         font-size: 12px;
-        margin: 30px 20px 10px 20px;
+        margin: 35px 20px 10px 20px;
     }
 
     .info button {
